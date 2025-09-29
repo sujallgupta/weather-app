@@ -32,8 +32,10 @@ It provides **real-time weather details** like temperature, humidity, and condit
 ### Installation
 1. Clone the repository:
 git clone https://github.com/sujallgupta/weather-app.git
+---
 2.Navigate to the project folder:
 cd weather-app
+---
 3.Open the project in your code editor or directly in your browser:
 Simply open index.html in your browser.
 
