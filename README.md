@@ -29,13 +29,6 @@ It provides **real-time weather details** like temperature, humidity, and condit
 - Subscribe to a weather API on RapidAPI (e.g., *OpenWeatherMap on RapidAPI* or *Weather by API Ninjas*)  
 - Get your **X-RapidAPI-Key** and **X-RapidAPI-Host** values  
 
-### Installation
-1. Clone the repository:
-git clone https://github.com/sujallgupta/weather-app.git
 ---
-2.Navigate to the project folder:
-cd weather-app
-
-3.Open the project in your code editor or directly in your browser:
-Simply open index.html in your browser.
-
+## Clone the repository :
+git clone https://github.com/sujallgupta/weather-app.git
