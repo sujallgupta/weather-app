@@ -1,4 +1,4 @@
-**🌐 Live Demo:** [Weather App Live](https://weather-app-git-main-sujallguptas-projects.vercel.app)  
+**🌐 Live Demo:** [Weather App Live](https://weather-app-teal-two-36.vercel.app/)  
 # 🌦️ Weather App
 
 A simple and responsive **Weather App** built with **HTML, CSS, and JavaScript**.  
